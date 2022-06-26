@@ -126,7 +126,7 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 
 ### simulation:
 ![pic 1](https://github.com/vijay21500269/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/blob/main/ex.no.6%20pic%201.png)
-![pic 2]()
+![pic 2](https://github.com/vijay21500269/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/blob/main/exp.no.6%20pic%202.png)
 ![pic 3]()
 ## RESULT:
 An environment for welding operation using robodk is Designed & simulated.
